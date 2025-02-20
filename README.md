@@ -2,7 +2,7 @@
 
 ## 简介
 
-本项目主要用户 OSEP 考试中用来 bypass 杀软
+本项目主要用于 OSEP 考试中用来 bypass 杀软
 
 
 ```bash
